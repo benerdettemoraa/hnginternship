@@ -1,2 +1,0 @@
-# hnginternship
-HNG Internship
